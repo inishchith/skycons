@@ -1,0 +1,22 @@
+{
+  "name": "skycons-color",
+  "version": "1.0.0",
+  "description": "Colored Weather Icons from skycons",
+  "main": "skycons.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inishchith/skycons.git"
+  },
+  "keywords": [
+    "skycons"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inishchith/skycons/issues"
+  },
+  "homepage": "https://github.com/inishchith/skycons#readme"
+}
